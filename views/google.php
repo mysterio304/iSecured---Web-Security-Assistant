@@ -8,8 +8,8 @@ error_reporting(E_ALL);
 
 require "vendor/autoload.php";
 $client = new Google\Client();
-$client->setClientId("385498786931-fvv9v32cagjb4noshgf7c80n5cb3m5bq.apps.googleusercontent.com");
-$client->setClientSecret("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");
+$client->setClientId("CLIENT-ID");
+$client->setClientSecret("CLIENT-SECRET");
 $client->setRedirectUri("https://daurenkontayev.kz");
 
 $client->addScope("email");
