@@ -10,5 +10,3 @@ The **Web Security Assistant** is a comprehensive web application designed to pr
 Whether you're a casual internet user or a tech-savvy individual, the **Web Security Assistant** empowers you to navigate the web safely and confidently. Stay one step ahead of cybercriminals with our easy-to-use, all-in-one security solution.  
 
 ---
-
-This description highlights the key features of your project while emphasizing its value to users. Let me know if you'd like to tweak it further!
